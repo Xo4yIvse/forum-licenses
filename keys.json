@@ -1,0 +1,6 @@
+{
+  "allowedKeys": [
+    { "key": "FS-AB12-CD34", "expires": "2025-12-31" },
+    { "key": "FS-XY99-KL77", "expires": null }
+  ]
+}
